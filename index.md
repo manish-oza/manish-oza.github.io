@@ -9,6 +9,8 @@ title: Manish Oza
 
 ### Voluntary associations and the state
 
+[Personification in private law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6451258), (forthcoming) in *Legal Personhood in Private Law*
+
 [Justiciability in private law: religion and politics](/assets/pdf/JIPL.pdf), (forthcoming) Osgoode Hall Law Journal
 
 [Voluntary associations and the rule of law](/assets/pdf/VARL.pdf), (forthcoming) McGill Law Journal
@@ -39,7 +41,7 @@ title: Manish Oza
 
 ### Treatise chapters and reports
 
-Advocacy and the Best Interests of Charitable Corporations, (forthcoming) [Law Commission of Canada](https://www.canada.ca/en/law-commission-canada/projects/research-streams.html) (with B Miller)
+Advocacy by Charities and the Best Interests of Charitable Corporations, (forthcoming) [Law Commission of Canada](https://www.canada.ca/en/law-commission-canada/projects/research-streams.html) (with B Miller)
 
 Intention to contract, (2024) in *Fridman's The Law of Contract in Canada*
 
@@ -68,7 +70,6 @@ Eric Claeys, *Natural Property Rights*, (forthcoming) Law and Philosophy
 
 Email me if you'd like to see a draft.
 
-- A paper about treating non-sentient entities as legal persons
 - A paper about how legal reasoning differs from ordinary reasoning	
 
 </section>
