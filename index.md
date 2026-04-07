@@ -13,7 +13,7 @@ title: Manish Oza
 
 [Justiciability in private law: religion and politics](/assets/pdf/JIPL.pdf), (forthcoming) Osgoode Hall Law Journal
 
-[Voluntary associations and the rule of law](/assets/pdf/VARL.pdf), (forthcoming) McGill Law Journal
+[Voluntary associations and the rule of law](https://lawjournal.library.mcgill.ca/article/view/2842/3328), (2026) McGill Law Journal
 
 [The personality of public authorities](/assets/pdf/PPA.pdf), (2024) Law and Philosophy [&rarr;](https://link.springer.com/article/10.1007/s10982-024-09499-z)
 
@@ -47,7 +47,7 @@ Intention to contract, (2024) in *Fridman's The Law of Contract in Canada*
 
 ### Book reviews
 
-Eric Claeys, *Natural Property Rights*, (forthcoming) Law and Philosophy
+[Eric Claeys, *Natural Property Rights*](https://link.springer.com/article/10.1007/s10982-026-09559-6), (2026) Law and Philosophy
 
 [Gabriele Badano & Alasia Nuti, *Politicizing Political Liberalism*](https://ndpr.nd.edu/reviews/politicizing-political-liberalism-on-the-containment-of-illiberal-and-antidemocratic-views/), (2025) Notre Dame Philosophical Reviews
 
