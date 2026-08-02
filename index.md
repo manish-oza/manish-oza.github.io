@@ -70,7 +70,9 @@ Intention to contract, (2024) in *Fridman's The Law of Contract in Canada*
 
 Email me if you'd like to see a draft.
 
-- A paper about how legal reasoning differs from ordinary reasoning	
+- A paper about how legal reasoning differs from ordinary reasoning
+- A paper about whether law can be socially constructed and necessarily just
+- A paper about quasi-corporations
 
 </section>
 
@@ -83,6 +85,8 @@ Courses I teach or have taught:
 - Property Law
 - Administrative Law
 - Jurisprudence ([reading list](/assets/pdf/Jurisprudence2024ReadingList.pdf))
+- Legal Personality
+- Approaches to Legal Scholarship
 - Julius Alexander Isaac Moot (coach)
 - Topics in Philosophy of Law: Pluralism ([syllabus](/assets/pdf/pluralism-syllabus.pdf))
 
