@@ -2,9 +2,9 @@
 
 ## About
 
-I'm an assistant professor at the University of Western Ontario. I work on legal philosophy, private law theory, and philosophy of logic. 
+I'm an assistant professor at the University of Western Ontario. I work on legal philosophy and private law.
 
-My main research project is about the law and political philosophy of voluntary associations, such as clubs, churches, unions and political parties, and how they intersect with the authority of the state. I've written about the [legal personality of groups](/assets/pdf/PPA.pdf), [fairness in associations](https://lawjournal.library.mcgill.ca/article/view/2842/3328) and [when courts should resolve religious disputes](/assets/pdf/JIPL.pdf). Building on this work, I'm particularly interested in exploring associative forms of ownership, as well as political projects that involve them.
+My main research project is about the law and political philosophy of voluntary associations, such as clubs, churches, unions and political parties, and how they intersect with the authority of the state. I've written about the [legal personality of groups](/assets/pdf/PPA.pdf), [fairness in associations](https://lawjournal.library.mcgill.ca/article/view/2842/3328) and [when courts should resolve religious disputes](/assets/pdf/JIPL.pdf). 
 
 My dissertation was in philosophy of logic, focusing on the relation of logic to thought. I argued that a basic grasp of logical rules is essential to thinking, and that this explains the sense in which [logic is normative](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/value-of-thinking-and-the-normativity-of-logic.pdf?c=phimp;idno=3521354.0020.025;format=pdf).
 
